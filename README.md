@@ -39,7 +39,7 @@ An end-to-end Data Analytics project examining retail coffee shop transactional 
 
 1. **Peak Operating Hours:** Highest footfall and revenue are generated during morning peak hours (8:00 AM – 11:00 AM).
 2. **Top Revenue Categories:** Coffee and Espresso-based beverages contribute the largest percentage of overall gross revenue.
-3. **Location Strategy:** Core urban store locations outperform suburban outlets in daily transaction volume.
+3. **Location Strategy:** Core urban store locations outperform suburban outlets in daily transaction volume. 
 
 ---
 
