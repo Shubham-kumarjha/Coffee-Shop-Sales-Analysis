@@ -8,7 +8,7 @@ An end-to-end Data Analytics project examining retail coffee shop transactional 
 
 ---
 
-## 📸 Dashboard Overview
+## 📸 Dashboard Overview 
 
 <p align="center">
   <img src="./Screenshot 2024-02-15 143928.png" alt="Coffee Shop Sales Dashboard" width="100%" />
