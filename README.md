@@ -27,7 +27,7 @@ An end-to-end Data Analytics project examining retail coffee shop transactional 
 
 ## 🛠️ Tools & Technologies Used
 
-| Tool | Purpose |
+| Tool | Purpose | 
 | :--- | :--- |
 | **MS Excel** | Data Cleaning, Pivot Tables, Conditional Formatting, VLOOKUP/XLOOKUP |
 | **Power BI** | Data Modeling, DAX Measures, Dynamic Interactive Visualizations |
@@ -43,7 +43,7 @@ An end-to-end Data Analytics project examining retail coffee shop transactional 
 
 ---
 
-## 📁 Repository Architecture
+## 📁 Repository Architecture .....
 
 ```text
 Coffee-Shop-Sales-Analysis/
