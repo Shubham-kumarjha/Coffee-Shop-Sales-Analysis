@@ -4,7 +4,7 @@
 ![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)   
 
-An end-to-end Data Analytics project examining retail coffee shop transactional data. This project delivers actionable business insights through interactive data modeling, KPI tracking, and interactive dashboarding in Excel and Power BI..  
+An end-to-end Data Analytics project examining retail coffee shop transactional data. This project delivers actionable business insights through interactive data modeling, KPI tracking, and interactive dashboarding in Excel and Power BI.
 
 ---
 
